@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title">
+  <title id="title">Dispatch Atlas compass mark</title>
+  <g fill="none" stroke-width="16">
+    <circle cx="80" cy="80" r="62" stroke="#14D89A" stroke-dasharray="85 305" transform="rotate(-90 80 80)"/>
+    <circle cx="80" cy="80" r="62" stroke="#0F172A" stroke-dasharray="85 305" transform="rotate(0 80 80)"/>
+    <circle cx="80" cy="80" r="62" stroke="#14D89A" stroke-dasharray="85 305" transform="rotate(90 80 80)"/>
+    <circle cx="80" cy="80" r="62" stroke="#0F172A" stroke-dasharray="85 305" transform="rotate(180 80 80)"/>
+  </g>
+  <path fill="#14D89A" d="M127 31 80 86 37 105Z"/>
+  <path fill="#087A67" d="m127 31-26 101-21-46Z"/>
+  <circle cx="80" cy="86" r="8" fill="#F8FAFC"/>
+</svg>
